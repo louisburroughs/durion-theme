@@ -1,0 +1,12 @@
+<component name="durion-theme" version="1.0.0">
+<resources>
+<!-- screens and app roots -->
+<resource type="screen" location="component://durion-theme/screen"/>
+<!-- template overrides -->
+<resource type="template" location="component://durion-theme/template"/>
+<!-- static web resources -->
+<resource type="webroot" location="component://durion-theme/webroot"/>
+<!-- theme data-->
+<resource type="data" location="component://durion-theme/data"/>
+</resources>
+</component>
