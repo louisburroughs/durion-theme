@@ -1,0 +1,7 @@
+<entity-facade-xml>
+    <WebrootThemeResource
+            themeTypeEnumId="WtrtQuasar"
+            resourceTypeEnumId="WtrtCss"
+            sequenceNum="50"
+            location="component://durion-theme/webroot/css/durion-theme.css"/>
+</entity-facade-xml>
